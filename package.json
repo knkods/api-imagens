@@ -1,0 +1,8 @@
+{
+    "name": "api-imagens",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "@vercel/og": "^0.6.4"
+    }
+  }
